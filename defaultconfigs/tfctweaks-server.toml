@@ -1,0 +1,9 @@
+
+[general]
+	#Riding a mount prevents slowdown from grass/leaves
+	mountsBypassSlowdown = true
+	#If enabled, mobs can only spawn on blocks with the tag 'mob_can_spawn'
+	preventMobsOnCertainBlocks = true
+	#If enabled, right clicking a small vessel in your inventory will take out the latest item, not the first item you placed into it
+	reverseExtractSmallVesselOrder = true
+

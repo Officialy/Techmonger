@@ -1,0 +1,6 @@
+
+#Settings for Enchantment plugin
+[enchantment]
+	#Should FTBUltimine enchantment be enabled
+	enable_enchantment = true
+

@@ -1,0 +1,6 @@
+
+#Development settings
+[dev]
+	#Enable debug mode
+	debug_mode = false
+

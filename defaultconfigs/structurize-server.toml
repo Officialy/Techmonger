@@ -1,0 +1,33 @@
+
+#All configuration items related to the core gameplay
+[gameplay]
+	#Should the default schematics be ignored (from the jar)?
+	ignoreSchematicsFromJar = false
+	#Should player-made schematics be allowed?
+	allowPlayerSchematics = true
+	#Max world operations per tick (max blocks to place, remove, or replace).
+	#Range: 0 ~ 100000
+	maxOperationsPerTick = 10000
+	#Max amount of undos saved. A higher number requires more memory.
+	#Range: 0 ~ 100
+	maxCachedChanges = 30
+	#Max amount of schematics to be cached on the server.
+	#Range: 0 ~ 100000
+	maxCachedSchematics = 200
+	#Max amount of blocks checked by a possible worker.
+	#Range: 0 ~ 100000
+	maxBlocksChecked = 10000
+	#structurize.config.schematicblocklimit.comment
+	#Range: 1000 ~ 1000000
+	schematicBlockLimit = 1000000
+	#Currently supports 'default', 'inwardcircle', 'hilbert', 'random' and 'inwardcircleheight1' to 'inwardcircleheight4'
+	iteratorType = "default"
+
+#structurize.config.update.comment
+[update]
+	#structurize.config.mode.comment
+	#Allowed Values: DISABLED, DOMUM_ORNAMENTUM
+	mode = "DISABLED"
+	start = [-10, -10]
+	end = [10, 10]
+
