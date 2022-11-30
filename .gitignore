@@ -11,3 +11,7 @@ patchouli_data.json
 logs/
 local/
 minecraftinstance.json
+.curseclient
+manifest.json
+rhino.local.properties
+servers.dat_old
