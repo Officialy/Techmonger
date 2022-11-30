@@ -1,2 +1,12 @@
 mods/
 journeymap/
+servers.dat
+saves/
+usercache.json
+usernamecache.json
+resourcepacks/modlist.html
+reauth.toml
+patchouli_data.json
+logs/
+local/
+minecraftinstance.json
