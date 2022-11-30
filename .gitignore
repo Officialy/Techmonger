@@ -15,4 +15,4 @@ minecraftinstance.json
 manifest.json
 rhino.local.properties
 servers.dat_old
-config/contentcreatorintegration/*
+config/contentcreatorintegration/

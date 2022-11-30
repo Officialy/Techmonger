@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Mon Nov 28 11:50:20 GMT 2022
+Last README file update: Wed Nov 30 12:52:22 GMT 2022
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -1400,6 +1400,21 @@ command.ie.mineral.setDepletion.depletion
 command.ie.mineral.setDepletion.depletion.pos
 command.invsee
 command.invsee.player
+command.ip
+command.ip.reservoir
+command.ip.reservoir.get
+command.ip.reservoir.get.location
+command.ip.reservoir.locate
+command.ip.reservoir.set
+command.ip.reservoir.set.amount
+command.ip.reservoir.set.amount.amount
+command.ip.reservoir.set.amount.amount.location
+command.ip.reservoir.set.capacity
+command.ip.reservoir.set.capacity.capacity
+command.ip.reservoir.set.capacity.capacity.location
+command.ip.reservoir.set.type
+command.ip.reservoir.set.type.name
+command.ip.reservoir.set.type.name.location
 command.item
 command.item.modify
 command.item.modify.block
